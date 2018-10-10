@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: f0649958cd2aa4fdea562798d194ea23
+timeCreated: 1518941595
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm1.l
+    100002: Arm1.r.001
+    100004: Arm2.l
+    100006: Arm2.l_end
+    100008: Arm2.r.001
+    100010: Armature.003
+    100012: ArmIK.l
+    100014: ArmIK.r
+    100016: ArmL_1
+    100018: ArmL_2
+    100020: ArmR_1
+    100022: ArmR_2
+    100024: Base
+    100026: Camera
+    100028: Cube
+    100030: Cube.001
+    100032: Cube.002
+    100034: Cube.003
+    100036: Cube.004
+    100038: Cube.005
+    100040: Cube.006
+    100042: Cylinder
+    100044: Elbow.l
+    100046: Elbow.l_end
+    100048: Elbow.r
+    100050: Elbow.r_end
+    100052: gun
+    100054: gun_end
+    100056: Head
+    100058: Head 1
+    100060: Head_end
+    100062: Knee.l
+    100064: Knee.l_end
+    100066: Knee.r
+    100068: Knee.r_end
+    100070: Lamp
+    100072: Leg1.l
+    100074: Leg1.r.001
+    100076: Leg2.l
+    100078: Leg2.l_end
+    100080: Leg2.r.001
+    100082: Leg2.r.001_end
+    100084: LegIK.l
+    100086: LegIK.r
+    100088: LegL_1
+    100090: LegL_2
+    100092: LegR_1
+    100094: LegR_2
+    100096: //RootNode
+    100098: Pelvis
+    100100: Root
+    100102: Torso
+    100104: Torso 1
+    400000: Arm1.l
+    400002: Arm1.r.001
+    400004: Arm2.l
+    400006: Arm2.l_end
+    400008: Arm2.r.001
+    400010: Armature.003
+    400012: ArmIK.l
+    400014: ArmIK.r
+    400016: ArmL_1
+    400018: ArmL_2
+    400020: ArmR_1
+    400022: ArmR_2
+    400024: Base
+    400026: Camera
+    400028: Cube
+    400030: Cube.001
+    400032: Cube.002
+    400034: Cube.003
+    400036: Cube.004
+    400038: Cube.005
+    400040: Cube.006
+    400042: Cylinder
+    400044: Elbow.l
+    400046: Elbow.l_end
+    400048: Elbow.r
+    400050: Elbow.r_end
+    400052: gun
+    400054: gun_end
+    400056: Head
+    400058: Head 1
+    400060: Head_end
+    400062: Knee.l
+    400064: Knee.l_end
+    400066: Knee.r
+    400068: Knee.r_end
+    400070: Lamp
+    400072: Leg1.l
+    400074: Leg1.r.001
+    400076: Leg2.l
+    400078: Leg2.l_end
+    400080: Leg2.r.001
+    400082: Leg2.r.001_end
+    400084: LegIK.l
+    400086: LegIK.r
+    400088: LegL_1
+    400090: LegL_2
+    400092: LegR_1
+    400094: LegR_2
+    400096: //RootNode
+    400098: Pelvis
+    400100: Root
+    400102: Torso
+    400104: Torso 1
+    2000000: Camera
+    2100000: No Name
+    2100002: Material
+    4300000: Cube.004
+    4300002: Cylinder
+    4300004: Cube
+    4300006: Head
+    4300008: Torso
+    4300010: LegL_1
+    4300012: LegR_1
+    4300014: LegL_2
+    4300016: LegR_2
+    4300018: ArmL_1
+    4300020: ArmL_2
+    4300022: ArmR_1
+    4300024: ArmR_2
+    4300026: Cube.001
+    4300028: Cube.002
+    4300030: Cube.003
+    4300032: Cube.005
+    4300034: Cube.006
+    7400000: Lamp|GunmanIdle
+    7400002: Lamp|Test
+    7400004: Lamp|Test2
+    7400006: Armature.003|GunmanIdle
+    7400008: Armature.003|GunmanWalkCycle
+    7400010: Armature.003|GunnerShooting
+    7400012: Armature.003|Idol
+    7400014: Armature.003|Panic
+    7400016: Armature.003|RunCycle
+    7400018: Armature.003|Sitting
+    7400020: Armature.003|Test
+    7400022: Armature.003|Test2
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: ArmL_1
+    13700002: ArmL_2
+    13700004: ArmR_1
+    13700006: ArmR_2
+    13700008: Cube
+    13700010: Cube.001
+    13700012: Cube.002
+    13700014: Cube.003
+    13700016: Cube.004
+    13700018: Cube.005
+    13700020: Cube.006
+    13700022: Cylinder
+    13700024: Head
+    13700026: LegL_1
+    13700028: LegL_2
+    13700030: LegR_1
+    13700032: LegR_2
+    13700034: Torso
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.003|GunmanIdle
+      takeName: Armature.003|GunmanIdle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|GunmanWalkCycle
+      takeName: Armature.003|GunmanWalkCycle
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|GunnerShooting
+      takeName: Armature.003|GunnerShooting
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
